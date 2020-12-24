@@ -1,7 +1,9 @@
 
 <center>
-    <img src="icon.png" alt="icon" width="256" height="256"/>
+    <img src="https://github.com/guihen01/Plot-Math-Lib/blob/main/Test3/Figure_2.png
+" alt="icon" width="256" height="256"/>
 </center>
+
 
 # Plot-Math-Lib
 Librairie de routines gtraphiques 
