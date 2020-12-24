@@ -1,3 +1,8 @@
+
+<center>
+    <img src="icon.png" alt="icon" width="256" height="256"/>
+</center>
+
 # Plot-Math-Lib
 Librairie de routines gtraphiques 
 Développées en C# et Python
