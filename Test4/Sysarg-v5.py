@@ -57,10 +57,10 @@ plt.xlabel(str(sys.argv[1]))
 
 # naming the y axis   
 #plt.ylabel('y - axis')   
-plt.xlabel(str(sys.argv[1]))
+plt.ylabel(str(sys.argv[2]))
 
 # giving a title to my graph   
-plt.title(' DSP ')   
+plt.title(' DSP (Signal Spectral Density')   
   
 # function to show the plot   
 plt.show()   
