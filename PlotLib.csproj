@@ -2,6 +2,20 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Henri Guillot</Authors>
+    <Company>Henri Guillot</Company>
+    <Description>Librairie de routines graphiques 
+Développée en C# et Python 
+But : afficher des courbes et des signaux , notamment des FFT (Fast Fourier Transform) et DFT (Discrete Fourier Transform). Mais cette librairie peut etre utilisée pour afficher toutes formes de courbes et signaux.
+Librairie utilisée, notamment  par FFTlib (associée avec la librairie et le projet : https://github.com/guihen01/Math-FFT-Lib.git.
+Particularitées : routines qui s'utilisent a partir de code C# et s'interfacent avec du Python ( font appel a des shell Python)</Description>
+    <RepositoryType>git</RepositoryType>
+    <RepositoryUrl>https://github.com/guihen01/Plot-Math-Lib.git</RepositoryUrl>
+    <PackageTags>Plot</PackageTags>
+    <Copyright>Henri Guillot</Copyright>
+    <PackageReleaseNotes>associée avec la librairie et le projet : https://github.com/guihen01/Math-FFT-Lib.git</PackageReleaseNotes>
+    <PackageLicenseExpression>MS-PL</PackageLicenseExpression>
+    <Version>2.0.0</Version>
   </PropertyGroup>
 
 </Project>
