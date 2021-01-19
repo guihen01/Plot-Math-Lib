@@ -12,24 +12,8 @@ Développées en C# et Python
 # Dependencies
 none required
 
-# cs project 
-Project Sdk="Microsoft.NET.Sdk">
+# cs project file
 
-  <PropertyGroup>
-    <OutputType>Exe</OutputType>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
-  </PropertyGroup>
-
-  <ItemGroup>
-    <Reference Include="FFTlib">
-      <HintPath>..\..\Math-FFT-Lib\FFTlib\bin\Debug\netstandard2.0\FFTlib.dll</HintPath>
-    </Reference>
-    <Reference Include="PlotLib">
-      <HintPath>..\..\Math-PLOT-Lib\PlotLib\bin\Debug\netstandard2.0\PlotLib.dll</HintPath>
-    </Reference>
-  </ItemGroup>
-
-</Project>
 
 # Building
  in C# import (include) the library DLL : Plotlib.dll in your project
