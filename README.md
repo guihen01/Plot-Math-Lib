@@ -10,7 +10,7 @@
 Librairie de routines gtraphiques 
 Développées en C# et Python
 
-# Dependencies
+# Dependencies of PlotLib.dll
 
 1. .NETStandard 1.4
 2. NETStandard.Library (>= 1.6.1)
