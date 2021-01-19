@@ -30,5 +30,6 @@ https://github.com/guihen01/Plot-Math-Lib/blob/main/Test3/Figure_2.png
 https://github.com/guihen01/Plot-Math-Lib/blob/main/Capture%20signal.PNG
 ![alt text]( https://github.com/guihen01/Plot-Math-Lib/blob/main/Capture%20signal.PNG "Logo Title Text 1")
 
-# screenshot FFT 
-![alt text](   "Logo Title Text 1")
+# screenshot DFT (Discrete Fourier Transform)
+
+![alt text]( https://github.com/guihen01/Plot-Math-Lib/blob/main/Capture%20DFT.PNG  "Logo Title Text 1")
