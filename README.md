@@ -25,4 +25,8 @@ using PlotLib;
 # screenshots
 https://github.com/guihen01/Plot-Math-Lib/blob/main/Test3/Figure_2.png
 
+# screenshot signal 
+
+https://github.com/guihen01/Plot-Math-Lib/blob/main/Capture%20signal.PNG
+![alt text]( https://github.com/guihen01/Plot-Math-Lib/blob/main/Capture%20signal.PNG "Logo Title Text 1")
 
