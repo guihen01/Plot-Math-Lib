@@ -6,13 +6,25 @@
 
 
 # Plot-Math-Lib
+
 Librairie de routines gtraphiques 
 Développées en C# et Python
 
 # Dependencies
-none required
 
-# cs project file
+1. .NETStandard 1.4
+2. NETStandard.Library (>= 1.6.1)
+3. runtime.any.System.Globalization (>= 4.3.0)
+4. System.Diagnostics.Process (>= 4.3.0)
+5. System.Globalization (>= 4.3.0)
+6. System.Globalization.Extensions (>= 4.3.0)
+
+
+# Publication
+
+Package distributed as a nuget package at :  https://www.nuget.org/packages/PlotLib1/
+
+Is distributed as a .DLL library file
 
 
 # Building
@@ -29,6 +41,7 @@ using PlotLib;
 See directories Test3, Test4 in this repository 
 
 https://github.com/guihen01/Plot-Math-Lib/tree/main/Test3
+
 https://github.com/guihen01/Plot-Math-Lib/tree/main/Test4
 
 # How to use : 
