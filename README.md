@@ -24,12 +24,16 @@ using System.Numerics;
 using FFTlib;
 using PlotLib;
 
-# How to use : 
+# Samples : 
 
 See directories Test3, Test4 in this repository 
 
 https://github.com/guihen01/Plot-Math-Lib/tree/main/Test3
 
+# How to use : 
+
+https://github.com/guihen01/Plot-Math-Lib/blob/main/How%20to%20use.PNG
+![alt text](https://github.com/guihen01/Plot-Math-Lib/blob/main/How%20to%20use.PNG  "Logo Title Text 1")
 
 # screenshots
 https://github.com/guihen01/Plot-Math-Lib/blob/main/Test3/Figure_2.png
