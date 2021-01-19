@@ -21,6 +21,12 @@ using System.Numerics;
 using FFTlib;
 using PlotLib;
 
+# How to use : 
+
+See directories Test3, Test4 in this repository 
+
+https://github.com/guihen01/Plot-Math-Lib/tree/main/Test3
+
 
 # screenshots
 https://github.com/guihen01/Plot-Math-Lib/blob/main/Test3/Figure_2.png
